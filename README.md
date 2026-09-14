@@ -8,44 +8,103 @@
 
 ## 👋 About Me
 
-I'm a Full-Stack Developer who enjoys building practical applications, solving problems, and turning ideas into working solutions.
+I'm a self-taught Full-Stack Developer with a fast learning ability, a proactive approach, and a strong drive to solve problems and build practical solutions.
 
-I enjoy working across the stack — from creating clean and intuitive user interfaces to developing backend logic, APIs, and databases.
+I enjoy working across the stack — from designing interactive user interfaces to developing backend logic, APIs, and database solutions.
+
+I'm motivated by challenging environments where I can contribute, learn, grow, and create meaningful impact.
+
+---
+
+## 💻 What I Do
+
+- 🌐 Build interactive web applications
+- ⚙️ Develop backend logic and REST APIs
+- 🗄️ Design and work with relational and NoSQL databases
+- 📊 Build dashboards and data-driven interfaces
+- 🔍 Write complex SQL queries and database logic
+- 🧪 Perform manual QA and validate application functionality
+- 🔀 Work with Git, branches, pull requests, and team development workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-React · Angular · TypeScript · JavaScript · HTML · SCSS
+Angular · React · TypeScript · JavaScript · SCSS · HTML
 
 ### Backend
-C# · .NET · ASP.NET Core · Entity Framework
+C# · .NET · Node.js · Python · Java
 
-### Database
-SQL Server · MongoDB
+### Databases
+SQL Server · Oracle · MongoDB
 
-### Tools
-Git · GitHub · Azure DevOps · Visual Studio
+### Tools & Technologies
+Git · GitHub · Azure DevOps · TFS · Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💎 Jewelry Store
-Full-stack e-commerce application for managing products, customers, purchases, and cart functionality.
+### 📊 Requests Dashboard
+**Angular · C# · Oracle**
 
+Interactive dashboard developed during my practicum at the Ministry of Education.
+
+Includes:
+- Dynamic data visualization
+- KPI monitoring
+- Advanced filtering
+- Period-based data analysis
+- Request management and monitoring
+
+Developed as part of a team while working with Git, branches, and pull requests.
+
+---
+
+### 💎 Jewelry Store
 **C# · .NET · Angular · SQL Server · Entity Framework**
 
-### 📊 Requests Dashboard
-Interactive dashboard for managing requests, including filtering, KPIs, SLA monitoring, and request management.
+Full-Stack e-commerce application built using a Multi-Layer architecture.
 
-**Angular · TypeScript · C# · .NET · SQL Server**
+The system includes product and customer management, purchases, business logic, and a dynamic client-side interface.
 
-### 🎓 College Management System
-A React-based application with student, instructor, and admin workflows.
+---
 
-**React · TypeScript · Redux · Formik · Yup**
+### 🤝 Volunteer Coordination System
+**Node.js · MongoDB**
+
+Backend-focused system designed to connect volunteers with relevant target audiences.
+
+Built with Node.js, advanced packages, and MongoDB as a NoSQL database.
+
+---
+
+### 👥 Employee Management System
+**SQL Server · T-SQL**
+
+Database-focused system for managing employees, attendance, and salaries.
+
+Includes:
+- Relational database design
+- Stored Procedures
+- Functions
+- Triggers
+- Transactions
+- CTE
+- Window Functions
+- Dynamic SQL
+- Views
+
+---
+
+## 🎓 Education
+
+**Computer Engineering Practical Diploma · Teaching Certificate**  
+2024–2026
+
+Advanced studies through Ultra Code by Kamatech, including:
+Algorithms · Data Structures · Mathematics · Operating Systems
 
 ---
 
