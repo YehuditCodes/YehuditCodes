@@ -22,22 +22,36 @@
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,sass,html" alt="Frontend skills" />
+  <img src="./icons/angular-original.svg" width="40" title="Angular"/>
+  <img src="./icons/react-original.svg" width="40" title="React"/>
+  <img src="./icons/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="./icons/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="./icons/sass-original.svg" width="40" title="SCSS/Sass"/>
+  <img src="./icons/html5-original.svg" width="40" title="HTML5"/>
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,java" alt="Backend skills" />
+  <img src="./icons/csharp-original.svg" width="40" title="C#"/>
+  <img src="./icons/dotnetcore-original.svg" width="40" title=".NET"/>
+  <img src="./icons/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="./icons/python-original.svg" width="40" title="Python"/>
+  <img src="./icons/java-original.svg" width="40" title="Java"/>
 </p>
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,oracle,mongodb" alt="Database skills" />
+  <img src="./icons/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+  <img src="./icons/oracle-original.svg" width="40" title="Oracle"/>
+  <img src="./icons/mongodb-original.svg" width="40" title="MongoDB"/>
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,postman" alt="Tools" />
+  <img src="./icons/git-original.svg" width="40" title="Git"/>
+  <img src="./icons/github-original.svg" width="40" title="GitHub"/>
+  <img src="./icons/azure-original.svg" width="40" title="Azure DevOps"/>
+  <img src="./icons/postman-original.svg" width="40" title="Postman"/>
 </p>
 
 ---
@@ -50,13 +64,14 @@
       <h4>💎 Jewelry Store</h4>
       Full-stack e-commerce application built with C# (.NET), Angular, and SQL — manages products, customers, and orders for an online jewelry store.
       <br><br>
-      <img src="https://skillicons.dev/icons?i=cs,angular" alt="Tech used" />
+      <img src="./icons/csharp-original.svg" width="28" title="C#"/>
+      <img src="./icons/angular-original.svg" width="28" title="Angular"/>
     </td>
     <td width="50%">
       <h4>🏦 Banking System</h4>
       MongoDB-based banking system implementing account management, deposits, withdrawals, and full transaction tracking.
       <br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="Tech used" />
+      <img src="./icons/mongodb-original.svg" width="28" title="MongoDB"/>
     </td>
   </tr>
   <tr>
@@ -64,13 +79,13 @@
       <h4>👥 Employee Management Database</h4>
       A comprehensive relational database system for HR, attendance, and salary management — built entirely in T-SQL with stored procedures, triggers, transactions, and dynamic SQL.
       <br><br>
-      <img src="https://skillicons.dev/icons?i=mssql" alt="Tech used" />
+      <img src="./icons/microsoftsqlserver-plain.svg" width="28" title="SQL Server"/>
     </td>
     <td width="50%">
       <h4>🌷 Flowers Shop</h4>
       A JavaScript-based e-commerce project for browsing and ordering flowers, focused on clean UI and smooth user flow.
       <br><br>
-      <img src="https://skillicons.dev/icons?i=js" alt="Tech used" />
+      <img src="./icons/javascript-original.svg" width="28" title="JavaScript"/>
     </td>
   </tr>
 </table>
@@ -79,13 +94,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YehuditCodes&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehuditCodes&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YehuditCodes&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"><sub>Thanks for stopping by — always open to connect 🙌</sub></p>
